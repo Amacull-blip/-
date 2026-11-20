@@ -1,14 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "extensions": [
     {
       "id": "youtube-organizer",
       "latest": "2.0.0"
-    },
-    {
-      "id": "nico-focus",
-      "latest": "1.1.0"
     },
     {
       "id": "wordblock",
@@ -21,10 +17,6 @@
     {
       "id": "movie-note",
       "latest": "1.1.1"
-    },
-    {
-      "id": "nico-follow",
-      "latest": "1.0.3"
     },
     {
       "id": "nico-watch",
