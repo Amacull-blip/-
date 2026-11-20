@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-20",
+  "extensions": [
+    {
+      "id": "youtube-focus",
+      "latest": "1.1"
+    },
+    {
+      "id": "youtube-blind",
+      "latest": "2.1"
+    },
+    {
+      "id": "youtube-organizer",
+      "latest": "1.3.1"
+    },
+    {
+      "id": "nico-focus",
+      "latest": "1.0"
+    },
+    {
+      "id": "wordblock",
+      "latest": "1.1.0"
+    },
+    {
+      "id": "anime-note",
+      "latest": "2.3.1"
+    },
+    {
+      "id": "movie-note",
+      "latest": "1.1.1"
+    },
+    {
+      "id": "nico-follow",
+      "latest": "1.0.1"
+    },
+    {
+      "id": "nico-watch",
+      "latest": "1.0.1"
+    },
+    {
+      "id": "gpu-dashboard",
+      "latest": "0.5.0"
+    }
+  ]
+}
