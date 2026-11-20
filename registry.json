@@ -3,14 +3,6 @@
   "updatedAt": "2026-11-20",
   "extensions": [
     {
-      "id": "youtube-focus",
-      "latest": "1.2.0"
-    },
-    {
-      "id": "youtube-blind",
-      "latest": "2.2.1"
-    },
-    {
       "id": "youtube-organizer",
       "latest": "2.0.0"
     },
@@ -36,7 +28,7 @@
     },
     {
       "id": "nico-watch",
-      "latest": "1.0.1"
+      "latest": "2.0.0"
     },
     {
       "id": "gpu-dashboard",
