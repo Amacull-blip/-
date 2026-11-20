@@ -4,11 +4,11 @@
   "extensions": [
     {
       "id": "youtube-focus",
-      "latest": "1.1"
+      "latest": "1.2.0"
     },
     {
       "id": "youtube-blind",
-      "latest": "2.1"
+      "latest": "2.2.1"
     },
     {
       "id": "youtube-organizer",
@@ -16,11 +16,11 @@
     },
     {
       "id": "nico-focus",
-      "latest": "1.0"
+      "latest": "1.1.0"
     },
     {
       "id": "wordblock",
-      "latest": "1.1.0"
+      "latest": "1.2.0"
     },
     {
       "id": "anime-note",
