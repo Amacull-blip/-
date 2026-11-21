@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "extensions": [
     {
       "id": "youtube-organizer",
@@ -12,11 +12,11 @@
     },
     {
       "id": "anime-note",
-      "latest": "2.5.0"
+      "latest": "2.6.0"
     },
     {
       "id": "movie-note",
-      "latest": "1.3.0"
+      "latest": "1.4.0"
     },
     {
       "id": "nico-watch",
