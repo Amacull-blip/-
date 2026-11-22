@@ -4,7 +4,7 @@
   "extensions": [
     {
       "id": "youtube-organizer",
-      "latest": "2.0.0"
+      "latest": "2.1.0"
     },
     {
       "id": "wordblock",
@@ -20,7 +20,7 @@
     },
     {
       "id": "nico-watch",
-      "latest": "2.2.0"
+      "latest": "2.3.0"
     },
     {
       "id": "gpu-dashboard",
