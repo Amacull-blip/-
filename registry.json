@@ -25,6 +25,10 @@
     {
       "id": "gpu-dashboard",
       "latest": "0.5.0"
+    },
+    {
+      "id": "yunitheater",
+      "latest": "1.0.0"
     }
   ]
 }
