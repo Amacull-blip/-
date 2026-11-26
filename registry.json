@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-27",
   "extensions": [
     {
       "id": "youtube-organizer",
@@ -12,7 +12,7 @@
     },
     {
       "id": "anime-note",
-      "latest": "2.8.0"
+      "latest": "2.9.0"
     },
     {
       "id": "movie-note",
@@ -28,7 +28,7 @@
     },
     {
       "id": "yunitheater",
-      "latest": "1.0.0"
+      "latest": "1.1.0"
     }
   ]
 }
