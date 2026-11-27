@@ -29,6 +29,10 @@
     {
       "id": "yunitheater",
       "latest": "1.2.0"
+    },
+    {
+      "id": "cowatch-support",
+      "latest": "1.0.0"
     }
   ]
 }
